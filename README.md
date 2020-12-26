@@ -17,7 +17,6 @@ The output is the AI-oprimized Christmas present for that person.
 
 Integration with any of the large online stores or warehouses is optional. Santa of course will not need this, he has his own production facilities in Korvatunturi.
 
-This is how you create code examples:
 
 ## Data sources and AI methods
 The data source to train the AI algorithm will be lists of one persons favourite Christmas gifts at different ages. Santa will have the complete records of this in his Big Books, which are in the process of being digitalized be all the little tonttus (elves).
